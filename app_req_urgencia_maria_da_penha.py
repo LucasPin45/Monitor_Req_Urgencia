@@ -157,6 +157,11 @@ Delegado Paulo Bilynskyj
 Cabo Gilberto Silva
 Alberto Fraga
 Pezenti
+Junio Amaral
+Franciane Bayer
+Dr. Zacharias Calil
+General Pazuello
+Missionário José Olimpio
 """
 
 PREFIX_STRIP_RE = re.compile(
