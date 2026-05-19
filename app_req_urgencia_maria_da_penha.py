@@ -155,6 +155,8 @@ Evair Vieira de Melo
 Mario Frias
 Delegado Paulo Bilynskyj
 Cabo Gilberto Silva
+Alberto Fraga
+Pezenti
 """
 
 PREFIX_STRIP_RE = re.compile(
